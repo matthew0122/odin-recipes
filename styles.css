@@ -1,0 +1,21 @@
+a {
+    color: rgb(255, 100, 100);
+    font-size:50px;
+}
+a:focus {
+    color:aquamarine;
+}
+h1 {
+    color: orange;
+    text-align: center;
+    font-size: 100px;
+    padding: 50px 0px 50px 0px;
+}
+body {
+    background-color: black;
+}
+li {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
